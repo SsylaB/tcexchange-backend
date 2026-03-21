@@ -1,0 +1,3320 @@
+[
+  {
+    "id": 1,
+    "country": "Algérie",
+    "universityName": "ENSH Ecole Nationale Supérieure d’Hydraulique",
+    "location": "Blida",
+    "url": "http://www.ensh.dz/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENSH",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 2,
+    "country": "Algérie",
+    "universityName": "ENSMM Ecole Nationale Supérieure des Mines et de la Métallurgie",
+    "location": "Annaba",
+    "url": "http://ensmm-annaba.dz/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENSMM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 3,
+    "country": "Algérie",
+    "universityName": "ENSSMAL Ecole Nationale Supérieure des Sciences de la Mer et de l'Aménagement du Littoral",
+    "location": "Alger",
+    "url": "http://www.enssmal.dz/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENSSMAL",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 4,
+    "country": "Algérie",
+    "universityName": "Université Badji Mokhtar",
+    "location": "Annaba",
+    "url": "https://www.univ-annaba.dz/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Université",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 5,
+    "country": "Allemagne",
+    "universityName": "HS BREMERHAVEN Hochschule Bremerhaven",
+    "location": null,
+    "url": "http://www.hs-bremerhaven.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "HS",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 6,
+    "country": "Allemagne",
+    "universityName": "KIT Karlsruher Institut für Technologie",
+    "location": null,
+    "url": "http://www.kit.edu/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "KIT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 7,
+    "country": "Allemagne",
+    "universityName": "LMU Ludwig-Maximilians-Universität München",
+    "location": null,
+    "url": "http://www.uni-muenchen.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "LMU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 8,
+    "country": "Allemagne",
+    "universityName": "RUB Universität Bochum",
+    "location": null,
+    "url": "http://www.rub.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "RUB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 9,
+    "country": "Allemagne",
+    "universityName": "RWTH Aachen University",
+    "location": null,
+    "url": "http://www.rwth-aachen.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "RWTH",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 10,
+    "country": "Allemagne",
+    "universityName": "TU COTTBUS Brandenburgische Technische Universität",
+    "location": null,
+    "url": "http://www.b-tu.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 11,
+    "country": "Allemagne",
+    "universityName": "TU DARMSTADT Technische Universität Darmstadt",
+    "location": null,
+    "url": "http://www.tu-darmstadt.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 12,
+    "country": "Allemagne",
+    "universityName": "TU DORMUND Technische Universität Dortmund",
+    "location": null,
+    "url": "http://www.tu-dortmund.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 13,
+    "country": "Allemagne",
+    "universityName": "TU DRESDEN Technische Universität Dresden",
+    "location": null,
+    "url": "http://tu-dresden.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 14,
+    "country": "Allemagne",
+    "universityName": "TU KL Technische Universität Kaiserslautern",
+    "location": null,
+    "url": "http://www.uni-kl.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 15,
+    "country": "Allemagne",
+    "universityName": "TUM Technische Universität München",
+    "location": null,
+    "url": "http://www.tum.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TUM",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 16,
+    "country": "Allemagne",
+    "universityName": "UNI PASSAU Universität Passau",
+    "location": null,
+    "url": "http://www.uni-passau.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 17,
+    "country": "Allemagne",
+    "universityName": "UNI STUTTGART Universität Stuttgart",
+    "location": null,
+    "url": "http://www.uni-stuttgart.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 18,
+    "country": "Argentine",
+    "universityName": "ITBA Instituto Technológico de Buenos Aires",
+    "location": "Buenos Aires",
+    "url": "http://www.itba.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "ITBA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 19,
+    "country": "Argentine",
+    "universityName": "IUA Instituto Universitario Aeronáutico",
+    "location": "Córdoba",
+    "url": "http://www.iua.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "IUA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 20,
+    "country": "Argentine",
+    "universityName": "UBA Universidad de Buenos Aires",
+    "location": "Buenos Aires",
+    "url": "http://www.uba.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UBA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 21,
+    "country": "Argentine",
+    "universityName": "UMP Universidad Mar del Plata - Facultad de ingeniería",
+    "location": null,
+    "url": "http://www.fi.mdp.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UMP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 22,
+    "country": "Argentine",
+    "universityName": "UNC Universidad Nacional de Córdoba",
+    "location": "Córdoba",
+    "url": "http://www.unc.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 23,
+    "country": "Argentine",
+    "universityName": "UNCUYO Universidad de Cuyo",
+    "location": "Mendoza",
+    "url": "http://www.uncu.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNCUYO",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 24,
+    "country": "Argentine",
+    "universityName": "UNL Universidad Nacional del Litoral",
+    "location": "Santa Fe",
+    "url": "http://www.unl.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNL",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 25,
+    "country": "Argentine",
+    "universityName": "UNLP Universidad Nacional de La Plata",
+    "location": "La Plata",
+    "url": "http://www.unlp.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNLP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 26,
+    "country": "Argentine",
+    "universityName": "UNR Universidad Nacional de Rosario",
+    "location": "Rosario",
+    "url": "http://www.unr.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNR",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 27,
+    "country": "Argentine",
+    "universityName": "UNRC Universidad Nacional de Rio Cuarto",
+    "location": "Rio Cuarto",
+    "url": "http://www.unrc.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNRC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 28,
+    "country": "Argentine",
+    "universityName": "UNS Universidad Nacional del Sur",
+    "location": "Bahía Blanca",
+    "url": "http://www.uns.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 29,
+    "country": "Argentine",
+    "universityName": "UNT Universidad Nacional de Tucuman",
+    "location": "Tucuman",
+    "url": "http://www.unt.edu.ar/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 30,
+    "country": "Argentine",
+    "universityName": "UTN Universidad Technológica National",
+    "location": "Toutes facultés",
+    "url": "http://utn.edu.ar/es",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "UTN",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 31,
+    "country": "Australie",
+    "universityName": "ANU Australian National University",
+    "location": "Canberra",
+    "url": "http://www.anu.edu.au/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ANU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 32,
+    "country": "Australie",
+    "universityName": "Flinders University of South Australia",
+    "location": "Adelaide",
+    "url": "http://www.flinders.edu.au/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Flinders",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 33,
+    "country": "Australie",
+    "universityName": "UNSW University of New South Wales",
+    "location": "Sydney",
+    "url": "http://www.unsw.edu.au/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNSW",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 34,
+    "country": "Australie",
+    "universityName": "UOW University of Wollongong",
+    "location": "Wollongong",
+    "url": "http://www.uow.edu.au/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UOW",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 35,
+    "country": "Autriche",
+    "universityName": "TU GRAZ Technische Universität Graz",
+    "location": null,
+    "url": "http://portal.tugraz.at/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 36,
+    "country": "Autriche",
+    "universityName": "TU WIEN Technische Universität Wien",
+    "location": null,
+    "url": "http://www.tuwien.ac.at/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 37,
+    "country": "Autriche",
+    "universityName": "UNILEOBEN Montanuniversität Leoben",
+    "location": null,
+    "url": "http://www.unileoben.ac.at/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNILEOBEN",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 38,
+    "country": "Belgique",
+    "universityName": "KULEUVEN Katholieke Universiteit Leuven",
+    "location": null,
+    "url": "http://www.kuleuven.be/",
+    "languages": [
+      "Français",
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "KULEUVEN",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 39,
+    "country": "Belgique",
+    "universityName": "UGENT Universiteit Gent",
+    "location": null,
+    "url": "http://www.ugent.be/",
+    "languages": [
+      "Français",
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UGENT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 40,
+    "country": "Belgique",
+    "universityName": "ULB Université Libre de Bruxelles",
+    "location": "Bruxelles",
+    "url": "http://www.ulb.ac.be/",
+    "languages": [
+      "Français",
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ULB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 41,
+    "country": "Belgique",
+    "universityName": "Université de Namur - Faculty of Computer Science",
+    "location": "Namur",
+    "url": "https://www.unamur.be/fr",
+    "languages": [
+      "Français",
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Université",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 42,
+    "country": "Bolivie",
+    "universityName": "EMI Escuela Militar de Ingeniería",
+    "location": "La Paz",
+    "url": "http://www.emi.edu.bo/",
+    "languages": [
+      "Espagnol"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "EMI",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 43,
+    "country": "Brésil",
+    "universityName": "Poli UFRJ Universidade Federal do Rio de Janeiro",
+    "location": "Rio de Janeiro",
+    "url": "http://www.poli.ufrj.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Poli",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 44,
+    "country": "Brésil",
+    "universityName": "Poli USP Universidade de São Paulo",
+    "location": "São Paulo",
+    "url": "http://www.poli.usp.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Poli",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 45,
+    "country": "Brésil",
+    "universityName": "PUC RIO Pontificia Universidade Catolica do Rio de Janeiro",
+    "location": "Rio de Janeiro",
+    "url": "http://www.puc-rio.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "PUC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 46,
+    "country": "Brésil",
+    "universityName": "UFC Universidade Federal do Ceara",
+    "location": "Fortereza",
+    "url": "http://www.ufc.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 47,
+    "country": "Brésil",
+    "universityName": "UFCG Universidade Federal de Campina Grande",
+    "location": "Campina Grande",
+    "url": "http://www.ufcg.edu.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFCG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 48,
+    "country": "Brésil",
+    "universityName": "UFG Universidade Federal de Goiás",
+    "location": "Goiás",
+    "url": "http://www.ufg.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 49,
+    "country": "Brésil",
+    "universityName": "UFMG Universidade Federal de Minas Gerais",
+    "location": "Belo Horizonte",
+    "url": "http://www.ufmg.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFMG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 50,
+    "country": "Brésil",
+    "universityName": "UFPB Universidade Federal da Paraiba",
+    "location": "João Pessoa",
+    "url": "http://www.ufpb.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFPB",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 51,
+    "country": "Brésil",
+    "universityName": "UFPR Universidade Federal do Paraná",
+    "location": "Curitiba",
+    "url": "http://www.ufpr.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFPR",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 52,
+    "country": "Brésil",
+    "universityName": "UFRN Universidad Federal de Rio Grande do Norte",
+    "location": "Rio Grande do Norte",
+    "url": "http://www.ufrn.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFRN",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 53,
+    "country": "Brésil",
+    "universityName": "UFSC Universidade Federal de Santa Catarina",
+    "location": "Florianópolis",
+    "url": "http://ufsc.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFSC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 54,
+    "country": "Brésil",
+    "universityName": "UFU Universidade Federal de Uberlândia",
+    "location": "Uberlândia",
+    "url": "http://www.ufu.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UFU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 55,
+    "country": "Brésil",
+    "universityName": "UNESP Universidade Estadual Paulista \"Julio de Mesquita Filho\"",
+    "location": "São Paulo",
+    "url": "http://www.unesp.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNESP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 56,
+    "country": "Brésil",
+    "universityName": "UNICAMP Universidade Estadual de Campinas",
+    "location": "São Paulo",
+    "url": "http://www.unicamp.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNICAMP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 57,
+    "country": "Brésil",
+    "universityName": "UTFPR Universidade Tecnologica Federal do Paraná",
+    "location": "Curitiba",
+    "url": "http://ww.utfpr.edu.br/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UTFPR",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 58,
+    "country": "Burkina Faso",
+    "universityName": "2IE Institut International d'Ingénierie de l’Eau et de l’Environnement",
+    "location": "Ouagadougou",
+    "url": "http://www.2ie-edu.org/",
+    "languages": [
+      "Français"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "2IE",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 59,
+    "country": "Canada",
+    "universityName": "EPM Ecole Polytechnique de Montréal",
+    "location": "Montréal",
+    "url": "http://www.polymtl.ca/",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "EPM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 60,
+    "country": "Canada",
+    "universityName": "ORA - Ontario-Rhône-Alpes Student Exchange",
+    "location": null,
+    "url": "http://ora.ouinternational.ca/",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ORA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 61,
+    "country": "Canada",
+    "universityName": "Université Laval",
+    "location": "Québec",
+    "url": "http://www2.ulaval.ca/",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Université",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 62,
+    "country": "Canada",
+    "universityName": "University of Sherbrooke",
+    "location": "Sherbrooke",
+    "url": "http://www.usherbrooke.ca/",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 63,
+    "country": "Canada",
+    "universityName": "UQAC Université du Québec à Chicoutimi",
+    "location": null,
+    "url": null,
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UQAC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 64,
+    "country": "Chili",
+    "universityName": "PUCV Valparaiso Pontificia Universidad Católica de Valparaiso",
+    "location": "Valparaiso",
+    "url": "http://www.ucv.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "PUCV",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 65,
+    "country": "Chili",
+    "universityName": "UC Pontificia Universidad Catolica",
+    "location": "Santiago de Chile",
+    "url": "http://www.uc.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 66,
+    "country": "Chili",
+    "universityName": "UCHILE Universidad de Chile",
+    "location": "Santiago de Chile",
+    "url": "http://www.uchile.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UCHILE",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 67,
+    "country": "Chili",
+    "universityName": "UDEC Universidad de Concepción",
+    "location": "Concepción",
+    "url": "http://www.udec.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UDEC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 68,
+    "country": "Chili",
+    "universityName": "USACH Universidad de Santiago de Chile",
+    "location": "Santiago de Chile",
+    "url": "http://www.usach.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "USACH",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 69,
+    "country": "Chili",
+    "universityName": "UTFSM Universidad Técnica Federico Santa María",
+    "location": "Valparaíso",
+    "url": "http://www.utfsm.cl/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Université technologique axée sur la formation en informatique et technologies.",
+    "shortName": "UTFSM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 70,
+    "country": "Chine",
+    "universityName": "CityU City University of Hong Kong",
+    "location": null,
+    "url": "http://www.cityu.edu.hk/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "CityU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 71,
+    "country": "Chine",
+    "universityName": "HIT Harbin Institute of Technology",
+    "location": null,
+    "url": "http://en.hit.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "HIT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 72,
+    "country": "Chine",
+    "universityName": "NPU Northwester Polytechnical University",
+    "location": "Xi An",
+    "url": "http://en.nwpu.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "NPU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 73,
+    "country": "Chine",
+    "universityName": "PolyU - The Hong Kong Polytechnic University",
+    "location": "Hong Kong",
+    "url": "http://www.polyu.edu.hk/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "PolyU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 74,
+    "country": "Chine",
+    "universityName": "Tongji University",
+    "location": "Shanghai",
+    "url": "http://www.tongji.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Tongji",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 75,
+    "country": "Chine",
+    "universityName": "Tsinghua University",
+    "location": "Pékin",
+    "url": "http://www.tsinghua.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Tsinghua",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 76,
+    "country": "Chine",
+    "universityName": "Xiamen University",
+    "location": null,
+    "url": "http://www.xmu.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Xiamen",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 77,
+    "country": "Colombie",
+    "universityName": "PUJ Pontificia Universidad Javeriana",
+    "location": "Bogotá",
+    "url": "http://www.javeriana.edu.co/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "PUJ",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 78,
+    "country": "Colombie",
+    "universityName": "UdeA Universidad de Antioquia",
+    "location": "Antioquia",
+    "url": "http://www.udea.edu.co/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UdeA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 79,
+    "country": "Colombie",
+    "universityName": "UMNG Universidad Militar de Nueva Granada",
+    "location": "Bogotá",
+    "url": "http://www.umng.edu.co/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UMNG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 80,
+    "country": "Colombie",
+    "universityName": "UNAL Universidad Nacional de Colombia",
+    "location": "Bogotá",
+    "url": "http://unal.edu.co/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNAL",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 81,
+    "country": "Colombie",
+    "universityName": "UNIANDES Universidad de Los Andes",
+    "location": "Bogotá",
+    "url": "http://www.uniandes.edu.co/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNIANDES",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 82,
+    "country": "Corée du Sud",
+    "universityName": "Hoseo University",
+    "location": null,
+    "url": "http://eng.hoseo.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Hoseo",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 83,
+    "country": "Corée du Sud",
+    "universityName": "Korea University",
+    "location": "Séoul",
+    "url": "http://www.korea.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Korea",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 84,
+    "country": "Corée du Sud",
+    "universityName": "POSTECH Pohang University - Science and Technology",
+    "location": "Pohang",
+    "url": "http://www.postech.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "POSTECH",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 85,
+    "country": "Corée du Sud",
+    "universityName": "Seoul National University",
+    "location": "Séoul",
+    "url": null,
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Seoul",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 86,
+    "country": "Corée du Sud",
+    "universityName": "Ulsan national Institute - science and technology",
+    "location": "Ulsan",
+    "url": "https://www.unist.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "Ulsan",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 87,
+    "country": "Corée du Sud",
+    "universityName": "Yonsei University",
+    "location": "Séoul",
+    "url": "http://www.yonsei.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Yonsei",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 88,
+    "country": "Danemark",
+    "universityName": "AAU Aalborg University",
+    "location": null,
+    "url": "http://www.aau.dk/",
+    "languages": [
+      "Danois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "AAU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 89,
+    "country": "Danemark",
+    "universityName": "DTU Technical University of Denmark",
+    "location": "Lyngby",
+    "url": "http://www.dtu.dk/",
+    "languages": [
+      "Danois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "DTU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 90,
+    "country": "Danemark",
+    "universityName": "SDU ODENSE University of Southern Denmark",
+    "location": "Odense",
+    "url": "http://www.sdu.dk/",
+    "languages": [
+      "Danois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "SDU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 91,
+    "country": "Espagne",
+    "universityName": "UPC - EETAC - Telecomunicació i Aeroespacial de Castelldefels",
+    "location": "Barcelona",
+    "url": null,
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UPC",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 92,
+    "country": "Espagne",
+    "universityName": "EHU Universidad del País Vasco",
+    "location": "Bilbao",
+    "url": "http://www.ehu.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "EHU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 93,
+    "country": "Espagne",
+    "universityName": "Madrid UPM /ETSIT - Telecom",
+    "location": "Madrid",
+    "url": null,
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Madrid",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 94,
+    "country": "Espagne",
+    "universityName": "UC3M Universidad - Madrid Carlos III",
+    "location": "Madrid",
+    "url": "http://www.uc3m.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UC3M",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 95,
+    "country": "Espagne",
+    "universityName": "UCLM Universidad de Castilla-La Mancha",
+    "location": "Castilla-La Mancha",
+    "url": "http://www.uclm.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UCLM",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 96,
+    "country": "Espagne",
+    "universityName": "UDC Universidad de La Coruña",
+    "location": "La Coruña",
+    "url": "http://www.udc.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UDC",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 97,
+    "country": "Espagne",
+    "universityName": "UJI Universidad Jaume I",
+    "location": "Castellón",
+    "url": "http://ujiapps.uji.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UJI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 98,
+    "country": "Espagne",
+    "universityName": "UNICAN Universidad de Cantabria",
+    "location": "Santander",
+    "url": "http://web.unican.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNICAN",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 99,
+    "country": "Espagne",
+    "universityName": "UNIZAR Universidad de Zaragoza",
+    "location": "Zaragoza",
+    "url": "http://www.unizar.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNIZAR",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 100,
+    "country": "Espagne",
+    "universityName": "UP COMILLAS Universidad Pontificia Comillas",
+    "location": "Madrid",
+    "url": "http://www.upcomillas.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UP",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 101,
+    "country": "Espagne",
+    "universityName": "UPC Universitat Politécnica de Catalunya",
+    "location": "Barcelona",
+    "url": "http://www.upc.edu/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Université technologique axée sur la formation en informatique et technologies.",
+    "shortName": "UPC",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 102,
+    "country": "Espagne",
+    "universityName": "UPM Universidad Politécnica de Madrid",
+    "location": "Madrid",
+    "url": "http://www.upm.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Université technologique axée sur la formation en informatique et technologies.",
+    "shortName": "UPM",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 103,
+    "country": "Espagne",
+    "universityName": "US Universidad de Sevilla",
+    "location": "Sevilla",
+    "url": "http://www.us.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "US",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 104,
+    "country": "Estonie",
+    "universityName": "TTU Tallinn University of Technology",
+    "location": null,
+    "url": "http://www.ttu.ee/",
+    "languages": [
+      "Estonien",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TTU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 105,
+    "country": "Estonie",
+    "universityName": "University of Tartu, Tartu Ülikool",
+    "location": null,
+    "url": "http://www.ut.ee/",
+    "languages": [
+      "Estonien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 106,
+    "country": "Finlande",
+    "universityName": "Aalto University",
+    "location": null,
+    "url": "http://www.aalto.fi/",
+    "languages": [
+      "Finnois",
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Aalto",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 107,
+    "country": "Finlande",
+    "universityName": "ABO Åbo Akademi University",
+    "location": "Turku",
+    "url": "http://www.abo.fi/",
+    "languages": [
+      "Finnois",
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ABO",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 108,
+    "country": "Finlande",
+    "universityName": "JYU University of Jyväskylä",
+    "location": "Jyväskylä",
+    "url": "http://www.jyu.fi/",
+    "languages": [
+      "Finnois",
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "JYU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 109,
+    "country": "Finlande",
+    "universityName": "Tampere UT",
+    "location": null,
+    "url": "http://www.lut.fi/",
+    "languages": [
+      "Finnois",
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Tampere",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 110,
+    "country": "Grèce",
+    "universityName": "AUTH Aristotle University of Thessaloniki",
+    "location": "Thessaloniki",
+    "url": "http://www.auth.gr/",
+    "languages": [
+      "Grec",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "AUTH",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 111,
+    "country": "Haïti",
+    "universityName": "UNIQ Université Quisqueya",
+    "location": null,
+    "url": "http://uniq.edu/",
+    "languages": [
+      "Français",
+      "Créole"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNIQ",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 112,
+    "country": "Hong Kong",
+    "universityName": "The Hong Kong University - Sciences and Technology",
+    "location": "Hong Kong",
+    "url": null,
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "The",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 113,
+    "country": "Hongrie",
+    "universityName": "BME Budapest University - Technology and Economics",
+    "location": "Budapest",
+    "url": "http://www.bme.hu/",
+    "languages": [
+      "Hongrois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "BME",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 114,
+    "country": "Inde",
+    "universityName": "IITB Indian Institute of Technology",
+    "location": "Bombay",
+    "url": "http://www.iitb.ac.in/",
+    "languages": [
+      "Hindi",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IITB",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 115,
+    "country": "Inde",
+    "universityName": "IITD Indian Institute of Technology",
+    "location": "Dehli",
+    "url": "http://www.iitd.ac.in/",
+    "languages": [
+      "Hindi",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IITD",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 116,
+    "country": "Inde",
+    "universityName": "IITK Indian Institute of Technology",
+    "location": "Kanpur",
+    "url": "http://www.iitk.ac.in/",
+    "languages": [
+      "Hindi",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IITK",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 117,
+    "country": "Inde",
+    "universityName": "IITM Indian Institute of Technology",
+    "location": "Madras",
+    "url": "http://www.iitm.ac.in/",
+    "languages": [
+      "Hindi",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IITM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 118,
+    "country": "Indonésie",
+    "universityName": "ITS Institut Teknologi Sepuluh Nopember",
+    "location": "Surabaya",
+    "url": "https://www.its.ac.id/international/experiencing-its/prospective-student/",
+    "languages": [
+      "Indonésien",
+      "Anglais"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "ITS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 119,
+    "country": "Irlande",
+    "universityName": "DCU Dublin City University",
+    "location": null,
+    "url": "http://www.dcu.ie/",
+    "languages": [
+      "Irlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "DCU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 120,
+    "country": "Irlande",
+    "universityName": "TCD Trinity College Dublin",
+    "location": null,
+    "url": "http://www.tcd.ie/",
+    "languages": [
+      "Irlandais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "TCD",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 121,
+    "country": "Irlande",
+    "universityName": "UCD University College Dublin",
+    "location": null,
+    "url": "http://www.ucd.ie/",
+    "languages": [
+      "Irlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UCD",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 122,
+    "country": "Irlande",
+    "universityName": "UL University of Limerick",
+    "location": "Limerick",
+    "url": "http://www.ul.ie/",
+    "languages": [
+      "Irlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UL",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 123,
+    "country": "Islande",
+    "universityName": "HI University of Iceland",
+    "location": "Reykjavík",
+    "url": "http://www.hi.is/",
+    "languages": [
+      "Islandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "HI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 124,
+    "country": "Italie",
+    "universityName": "Liceo Scientifico Statale \"Benedetto Croce\"",
+    "location": null,
+    "url": "http://www.liceocroce.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Liceo",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 125,
+    "country": "Italie",
+    "universityName": "POLIBA Politecnico di Bari",
+    "location": "Bari",
+    "url": "http://www.poliba.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "POLIBA",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 126,
+    "country": "Italie",
+    "universityName": "POLITO Politecnico di Torino",
+    "location": "Torino",
+    "url": "http://www.polito.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "POLITO",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 127,
+    "country": "Italie",
+    "universityName": "UNICT Università degli studi di Catania",
+    "location": "Catania",
+    "url": "http://www.unict.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNICT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 128,
+    "country": "Italie",
+    "universityName": "UNIMI Università degli Studi di Milano",
+    "location": "Milano",
+    "url": "http://www.unimi.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNIMI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 129,
+    "country": "Italie",
+    "universityName": "UNINA Università degli Studi di Napoli Federico II",
+    "location": "Napoli",
+    "url": "http://www.unina.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNINA",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 130,
+    "country": "Italie",
+    "universityName": "UNIROMAL Sapienza Università di Roma",
+    "location": "Roma",
+    "url": "http://www.uniroma1.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNIROMAL",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 131,
+    "country": "Italie",
+    "universityName": "UNIVAQ University of L'Aquila",
+    "location": "L'Aquila",
+    "url": "http://www.univaq.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNIVAQ",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 132,
+    "country": "Japon",
+    "universityName": "Keio",
+    "location": null,
+    "url": null,
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Keio",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 133,
+    "country": "Japon",
+    "universityName": "Tokyo IST",
+    "location": "Tokyo",
+    "url": "https://www.i.u-tokyo.ac.jp/edu/entra/exchange_students_e.shtml",
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Tokyo",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 134,
+    "country": "Japon",
+    "universityName": "Tokyo School of Engineering",
+    "location": "Tokyo",
+    "url": null,
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "Tokyo",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 135,
+    "country": "Japon",
+    "universityName": "UTokyo The University - Tokyo Frontiere Sciences",
+    "location": "Tokyo",
+    "url": "http://www.u-tokyo.ac.jp/",
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UTokyo",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 136,
+    "country": "Maroc",
+    "universityName": "EMI Ecole Mohammadia d'Ingénieurs",
+    "location": "Rabat",
+    "url": "http://www.emi.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "EMI",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 137,
+    "country": "Maroc",
+    "universityName": "ENSAJ Ecole Nationale des Sciences Appliquées de l'Université Chouaib Doukkali",
+    "location": "El Jadida",
+    "url": "http://www.ucd.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ENSAJ",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 138,
+    "country": "Maroc",
+    "universityName": "ENSAT Ecole Nationale des Sciences Appliquées de Tanger / Université Abdelmalek Essaâdi",
+    "location": "Tanger",
+    "url": "http://www.ensat.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ENSAT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 139,
+    "country": "Maroc",
+    "universityName": "ENSEM Ecole Nationale Supérieure d'Electricité et de Mécanique",
+    "location": "Casablanca",
+    "url": "http://www.ensem.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENSEM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 140,
+    "country": "Maroc",
+    "universityName": "ENSMR Ecole Nationale Supérieure des Mines",
+    "location": "Rabat",
+    "url": "http://www.enim.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENSMR",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 141,
+    "country": "Maroc",
+    "universityName": "FSTS Faculté des Sciences et Techniques",
+    "location": "Settat",
+    "url": "http://www.fsts.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "FSTS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 142,
+    "country": "Maroc",
+    "universityName": "INPT Institut National des Postes et Télécommunications",
+    "location": "Rabat",
+    "url": "http://www.inpt.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "INPT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 143,
+    "country": "Maroc",
+    "universityName": "USMBA Université Sidi Mohamed Ben Abdellah - Faculté des Sciences Dhar El Mahraz",
+    "location": "Fès",
+    "url": "http://www.fsdmfes.ac.ma/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "USMBA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 144,
+    "country": "Mexique",
+    "universityName": "BUAP Benemérita Universidad Autónoma",
+    "location": "Puebla",
+    "url": "http://www.buap.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "BUAP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 145,
+    "country": "Mexique",
+    "universityName": "IPN Instituto Politécnico Nacional",
+    "location": "México",
+    "url": "http://www.ipn.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "IPN",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 146,
+    "country": "Mexique",
+    "universityName": "UABC Universidad Autonoma",
+    "location": "Baja California",
+    "url": "http://www.uabc.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UABC",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 147,
+    "country": "Mexique",
+    "universityName": "UAM Universidad Autónoma Metropolitana",
+    "location": "México",
+    "url": "http://www.uam.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UAM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 148,
+    "country": "Mexique",
+    "universityName": "UANL Universidad Autónoma de Nuevo León",
+    "location": "Monterrey",
+    "url": "http://www.uanl.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UANL",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 149,
+    "country": "Mexique",
+    "universityName": "UASLP Universidad Autonoma",
+    "location": "San Luis de Potosi",
+    "url": "http://www.uaslp.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UASLP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 150,
+    "country": "Mexique",
+    "universityName": "UDG Universidad de Guadalajara",
+    "location": "Guadalajara",
+    "url": "http://www.udg.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UDG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 151,
+    "country": "Mexique",
+    "universityName": "UG Universidad de Guanajuato",
+    "location": "Guanajuato",
+    "url": "http://www.ugto.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UG",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 152,
+    "country": "Mexique",
+    "universityName": "UNISON Universidad de Sonora",
+    "location": "Sonora",
+    "url": "http://www.uson.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UNISON",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 153,
+    "country": "Mexique",
+    "universityName": "UV Universidad Veracruzana",
+    "location": null,
+    "url": "http://www.uv.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UV",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 154,
+    "country": "Norvège",
+    "universityName": "UIS University of Stavanger",
+    "location": "Stavanger",
+    "url": "http://www.uis.no/",
+    "languages": [
+      "Norvégien",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UIS",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 155,
+    "country": "Nouvelle Zélande",
+    "universityName": "University of Auckland",
+    "location": "Auckland",
+    "url": "https://www.auckland.ac.nz/en.html",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 156,
+    "country": "Pays Bas",
+    "universityName": "TU DELFT Delft University of Technology",
+    "location": null,
+    "url": "http://www.tudelft.nl/",
+    "languages": [
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 157,
+    "country": "Pays Bas",
+    "universityName": "UTWENTE University of Twente",
+    "location": "Twente",
+    "url": "http://www.utwente.nl/",
+    "languages": [
+      "Néerlandais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UTWENTE",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 158,
+    "country": "Pérou",
+    "universityName": "Universidad Católica San Pablo",
+    "location": null,
+    "url": null,
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Universidad",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 159,
+    "country": "Pérou",
+    "universityName": "Universidad San Ignacio de Loyola (USIL)",
+    "location": null,
+    "url": null,
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Universidad",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 160,
+    "country": "Pologne",
+    "universityName": "AGH University of Science and Technology",
+    "location": "Kraków",
+    "url": "http://www.agh.edu.pl/",
+    "languages": [
+      "Polonais",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "AGH",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 161,
+    "country": "Pologne",
+    "universityName": "PG Gdańsk University of Technology",
+    "location": null,
+    "url": "http://pg.edu.pl/",
+    "languages": [
+      "Polonais",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "PG",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 162,
+    "country": "Pologne",
+    "universityName": "UT LODZ University of Lodz",
+    "location": "Lodz",
+    "url": "http://www.p.lodz.pl/",
+    "languages": [
+      "Polonais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 163,
+    "country": "Portugal",
+    "universityName": "FEUP Faculdade - Engenharia da Universidade do Porto",
+    "location": "Porto",
+    "url": "http://www.fe.up.pt/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "FEUP",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 164,
+    "country": "Portugal",
+    "universityName": "IST LISBOA Instituto Superior Técnico",
+    "location": "Lisboa",
+    "url": "http://tecnico.ulisboa.pt/",
+    "languages": [
+      "Portugais",
+      "Anglais"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "IST",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 165,
+    "country": "République Tchèque",
+    "universityName": "CTU Czech Technical University",
+    "location": "Prague",
+    "url": "http://www.cvut.cz/",
+    "languages": [
+      "Tchèque",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "CTU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 166,
+    "country": "République Tchèque",
+    "universityName": "VUTBR Brno University of Technology",
+    "location": null,
+    "url": "http://www.vutbr.cz/",
+    "languages": [
+      "Tchèque",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "VUTBR",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 167,
+    "country": "République Tchèque",
+    "universityName": "ZCU University of West Bohemia",
+    "location": "Pilsen",
+    "url": "http://www.zcu.cz/",
+    "languages": [
+      "Tchèque",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ZCU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 168,
+    "country": "Roumanie",
+    "universityName": "ARUT Alliance Roumaine des Universités Techniques - UTCN, UTCB, UPT, UPB, IASI",
+    "location": null,
+    "url": "https://international.insa-strasbourg.fr/signature-dun-accord-cadre-entre-le-groupe-insa-et-lalliance-roumaine-des-universites-techniques-arut/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "ARUT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 169,
+    "country": "Roumanie",
+    "universityName": "IASI Gheorghe Asachi Technical University of Iaşi",
+    "location": "Iaşi",
+    "url": "http://www.tuiasi.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IASI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 170,
+    "country": "Roumanie",
+    "universityName": "ORADEA University of Oradea",
+    "location": "Oradea",
+    "url": "http://www.uoradea.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ORADEA",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 171,
+    "country": "Roumanie",
+    "universityName": "SAPIENTIA Sapientia Hungarian University of Transylvania",
+    "location": "Cluj-Napoca",
+    "url": "http://kv.sapientia.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "SAPIENTIA",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 172,
+    "country": "Roumanie",
+    "universityName": "UB Vasile Alecsandri University of Bacău",
+    "location": "Bacău",
+    "url": "http://www.ub.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 173,
+    "country": "Roumanie",
+    "universityName": "UPB University Politehnica of Bucarest",
+    "location": "Bucarest",
+    "url": "http://www.upb.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UPB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 174,
+    "country": "Roumanie",
+    "universityName": "UPT Timisoara Politehnica University",
+    "location": null,
+    "url": "http://www.upt.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UPT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 175,
+    "country": "Roumanie",
+    "universityName": "UPT Universitatea Politehnica Timişoara",
+    "location": null,
+    "url": "http://www.upt.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UPT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 176,
+    "country": "Roumanie",
+    "universityName": "USV Ştefan cel Mare University of Suceava",
+    "location": "Suceava",
+    "url": "http://www.usv.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "USV",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 177,
+    "country": "Roumanie",
+    "universityName": "UTCB Universitatea Tehnica de Constructii Bucuresti",
+    "location": "Bucarest",
+    "url": "http://utcb.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UTCB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 178,
+    "country": "Roumanie",
+    "universityName": "UTCN Technical University of Cluj-Napoca",
+    "location": "Cluj-Napoca",
+    "url": "http://www.utcluj.ro/",
+    "languages": [
+      "Roumain",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "UTCN",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 179,
+    "country": "Royaume Uni",
+    "universityName": "CAM University of Cambridge",
+    "location": "Cambridge",
+    "url": "http://www.cam.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "CAM",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 180,
+    "country": "Royaume Uni",
+    "universityName": "London Imperial College",
+    "location": null,
+    "url": "http://www.imperial.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "London",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 181,
+    "country": "Royaume Uni",
+    "universityName": "Loughborough University",
+    "location": null,
+    "url": "http://www.lboro.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Loughborough",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 182,
+    "country": "Royaume Uni",
+    "universityName": "University of Aberdeen",
+    "location": "Aberdeen",
+    "url": "http://www.abdn.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 183,
+    "country": "Royaume Uni",
+    "universityName": "University of Bath",
+    "location": "Bath",
+    "url": "http://www.bath.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 184,
+    "country": "Royaume Uni",
+    "universityName": "University of Bristol",
+    "location": "Bristol",
+    "url": "http://www.bris.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 185,
+    "country": "Royaume Uni",
+    "universityName": "University of Leeds",
+    "location": "Leeds",
+    "url": "http://www.leeds.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 186,
+    "country": "Royaume Uni",
+    "universityName": "University of Sheffield",
+    "location": "Sheffield",
+    "url": "http://www.sheffield.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 187,
+    "country": "Royaume Uni",
+    "universityName": "University of Strathclyde",
+    "location": "Glasgow",
+    "url": "http://www.strath.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 188,
+    "country": "Russie",
+    "universityName": "BMSTU Bauman Moscow State Technical University",
+    "location": null,
+    "url": "http://www.bmstu.ru/",
+    "languages": [
+      "Russe",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "BMSTU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 189,
+    "country": "Russie",
+    "universityName": "Peter the Great St.Petersburg Polytechnic University",
+    "location": null,
+    "url": "http://www.spbstu.ru/",
+    "languages": [
+      "Russe",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "Peter",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 190,
+    "country": "Singapour",
+    "universityName": "Singapore University of Technology and Design",
+    "location": null,
+    "url": null,
+    "languages": [
+      "Anglais",
+      "Chinois",
+      "Malais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "Singapore",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 191,
+    "country": "Slovaquie",
+    "universityName": "STU Slovak University of Technology",
+    "location": "Bratislava",
+    "url": "http://www.stuba.sk/",
+    "languages": [
+      "Slovaque",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "STU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 192,
+    "country": "Slovénie",
+    "universityName": "UM University of Maribor",
+    "location": "Maribor",
+    "url": "http://www.um.si/",
+    "languages": [
+      "Slovène",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UM",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 193,
+    "country": "Slovénie",
+    "universityName": "UNILJ University of Ljubljana",
+    "location": "Ljubljana",
+    "url": "http://www.fs.uni-lj.si/",
+    "languages": [
+      "Slovène",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UNILJ",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 194,
+    "country": "Suède",
+    "universityName": "Chalmers University of Technology",
+    "location": null,
+    "url": "http://www.chalmers.se/",
+    "languages": [
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "Chalmers",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 195,
+    "country": "Suède",
+    "universityName": "LU Lund University",
+    "location": null,
+    "url": "http://www.lunduniversity.lu.se/",
+    "languages": [
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "LU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 196,
+    "country": "Suède",
+    "universityName": "SU Stockholm University",
+    "location": null,
+    "url": "http://www.su.se/",
+    "languages": [
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "SU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 197,
+    "country": "Suisse",
+    "universityName": "EPFL Ecole Polytechnique Fédérale de Lausanne",
+    "location": "Lausanne",
+    "url": "http://www.epfl.ch/",
+    "languages": [
+      "Français",
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "EPFL",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 198,
+    "country": "Suisse",
+    "universityName": "Rapperswil - Eastern Switzerland University of Applied Sciences OST",
+    "location": null,
+    "url": "https://www.ost.ch/en/",
+    "languages": [
+      "Français",
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Rapperswil",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 199,
+    "country": "Tchad",
+    "universityName": "IUSTA Institut Universitaire des Sciences et Techniques d'Abeche",
+    "location": "Abeche",
+    "url": "http://iusta.lescigales.org/",
+    "languages": [
+      "Français",
+      "Arabe"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IUSTA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 200,
+    "country": "Tunisie",
+    "universityName": "ENIS Ecole Nationale d'Ingénieurs de Sfax",
+    "location": "Sfax",
+    "url": "http://www.enis.rnu.tn/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENIS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 201,
+    "country": "Tunisie",
+    "universityName": "ENIT Ecole Nationale de Tunis",
+    "location": "Tunis",
+    "url": "http://www.enit.rnu.tn/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ENIT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 202,
+    "country": "Tunisie",
+    "universityName": " UM Université de Monastir",
+    "location": "Monastir",
+    "url": "http://www.um.rnu.tn/",
+    "languages": [
+      "Arabe",
+      "Français"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "UM",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 203,
+    "country": "Turquie",
+    "universityName": "BOUN Boğaziçi University",
+    "location": null,
+    "url": "http://www.boun.edu.tr/",
+    "languages": [
+      "Turc",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "BOUN",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 204,
+    "country": "Turquie",
+    "universityName": "GSU Galatasaray University",
+    "location": null,
+    "url": "http://gsu.edu.tr/",
+    "languages": [
+      "Turc",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "GSU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 205,
+    "country": "USA",
+    "universityName": "GE3 IIE Institute - International Education",
+    "location": null,
+    "url": "http://www.iie.org/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
+    "shortName": "GE3",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 206,
+    "country": "USA",
+    "universityName": "GEORGIA TECH Georgia Institute of Technology",
+    "location": "Atlanta",
+    "url": "http://www.gatech.edu/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "GEORGIA",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 207,
+    "country": "USA",
+    "universityName": "Penn State University",
+    "location": null,
+    "url": "http://www.psu.edu/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Penn",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 208,
+    "country": "USA",
+    "universityName": "PITT University of Pittsburgh",
+    "location": "Pittsburgh",
+    "url": "http://www.pitt.edu/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "PITT",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 209,
+    "country": "Venezuela",
+    "universityName": "USB Universidad Simón Bolívar",
+    "location": "Caracas",
+    "url": "http://www.usb.ve/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "USB",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 210,
+    "country": "Vietnam",
+    "universityName": "Ecole Nationale Supérieure de Génie Civil d’Hanoi",
+    "location": "Hanoi",
+    "url": "http://www.nuce.edu.vn/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "Ecole",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 211,
+    "country": "Vietnam",
+    "universityName": "IPHCMV Institut Polytechnique d’Ho Chi Minh Ville",
+    "location": "Ho Chi Minh ville",
+    "url": "http://www.hcmut.edu.vn/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IPHCMV",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 212,
+    "country": "Thaïlande",
+    "universityName": "King Mongkut's University of Technology Thonburi",
+    "location": "Bangkok",
+    "url": "https://www.kmutt.ac.th/",
+    "languages": [
+      "Thaï",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "King",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 213,
+    "country": "Allemagne",
+    "universityName": "TUB Technische Universität Berlin",
+    "location": "Berlin",
+    "url": "http://www.tu-berlin.de/",
+    "languages": [
+      "Allemand",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "TUB",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 214,
+    "country": "Australie",
+    "universityName": "ISEP International Student Exchange Program",
+    "location": null,
+    "url": "https://www.isepstudyabroad.org/programs/program-types-and-deadlines/isep-exchange",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ISEP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 215,
+    "country": "Canada",
+    "universityName": "ETS Ecole de Technologie Supérieure",
+    "location": "Montréal",
+    "url": "http://www.etsmtl.ca/",
+    "languages": [
+      "Français",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "ETS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 216,
+    "country": "Chine",
+    "universityName": "BJTU Beijing Jiao Tong University",
+    "location": "Beijing",
+    "url": "http://en.njtu.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "BJTU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 217,
+    "country": "Chine",
+    "universityName": "SJTU Shanghai Jiao Tong University",
+    "location": "Shanghai",
+    "url": "http://en.sjtu.edu.cn/",
+    "languages": [
+      "Chinois",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "SJTU",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 218,
+    "country": "Espagne",
+    "universityName": "UPC - ETSETB - Telecomunicacions",
+    "location": "Barcelona",
+    "url": null,
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UPC",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 219,
+    "country": "Finlande",
+    "universityName": "LUT Lappeenranta University of Technology",
+    "location": null,
+    "url": "http://www.lut.fi/",
+    "languages": [
+      "Finnois",
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "LUT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 220,
+    "country": "Italie",
+    "universityName": "POLIMI Politecnico di Milano",
+    "location": "Milano",
+    "url": "http://www.polimi.it/",
+    "languages": [
+      "Italien",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "POLIMI",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 221,
+    "country": "Japon",
+    "universityName": "Kobe University",
+    "location": "Kobe",
+    "url": "http://www.kobe-u.ac.jp/",
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Kobe",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 222,
+    "country": "Lituanie",
+    "universityName": "VGTU Vilnius Gediminas Technical University",
+    "location": null,
+    "url": "http://www.vgtu.lt/",
+    "languages": [
+      "Lituanien",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "VGTU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 223,
+    "country": "Lituanie",
+    "universityName": "VTDK Vilniaus technologijų ir dizaino kolegija",
+    "location": null,
+    "url": "https://vtdko.lt/en/",
+    "languages": [
+      "Lituanien",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "VTDK",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 224,
+    "country": "Mexique",
+    "universityName": "UADY Universidad Autónoma de Yucatan",
+    "location": "Yucatan",
+    "url": "http://www.uady.mx/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "UADY",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 225,
+    "country": "Norvège",
+    "universityName": "NTNU Norwegian University of Science and Technology",
+    "location": "Trondheim",
+    "url": "http://www.ntnu.no/",
+    "languages": [
+      "Norvégien",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "NTNU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 226,
+    "country": "Nouvelle Zélande",
+    "universityName": "ISEP Nouvelle Zélande - University of Waikato",
+    "location": "Waikato",
+    "url": "http://www.waikato.ac.nz/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "ISEP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 227,
+    "country": "Pologne",
+    "universityName": "WUT Warsaw University of Technology",
+    "location": null,
+    "url": "http://www.pw.edu.pl/",
+    "languages": [
+      "Polonais",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "WUT",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 228,
+    "country": "Royaume Uni",
+    "universityName": "University of Birmingham",
+    "location": "Birmingham",
+    "url": "http://www.birmingham.ac.uk/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "University",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 229,
+    "country": "Singapour",
+    "universityName": "NUS National University of Singapore",
+    "location": "Singapore",
+    "url": "http://www.nus.edu.sg/",
+    "languages": [
+      "Anglais",
+      "Chinois",
+      "Malais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "NUS",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 230,
+    "country": "Suède",
+    "universityName": "KTH Royal Institute of Technology",
+    "location": "Stockholm",
+    "url": "http://www.kth.se/",
+    "languages": [
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "KTH",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 231,
+    "country": "Suède",
+    "universityName": "LTU Lulea University of Technology",
+    "location": null,
+    "url": "http://www.ltu.se/",
+    "languages": [
+      "Suédois",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "LTU",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 232,
+    "country": "USA",
+    "universityName": "ISEP International Student Exchange Program",
+    "location": null,
+    "url": "http://www.isepstudyabroad.org/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
+    "shortName": "ISEP",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 233,
+    "country": "Corée du Sud",
+    "universityName": "KAIST Korea Advanced Institute of Science and Technology",
+    "location": "Daejeon",
+    "url": "http://www.kaist.edu/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "KAIST",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 234,
+    "country": "Corée du Sud",
+    "universityName": "Sogang University",
+    "location": "Séoul",
+    "url": "http://wwwe.sogang.ac.kr/",
+    "languages": [
+      "Coréen",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Sogang",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 235,
+    "country": "Espagne",
+    "universityName": "UPV Universidad Politécnica de Valencia",
+    "location": "Valencia",
+    "url": "http://www.upv.es/",
+    "languages": [
+      "Espagnol",
+      "Anglais"
+    ],
+    "description": "Université technologique axée sur la formation en informatique et technologies.",
+    "shortName": "UPV",
+    "exchangeType": "Erasmus"
+  },
+  {
+    "id": 236,
+    "country": "Japon",
+    "universityName": "Kyushu University",
+    "location": "Fukuoka",
+    "url": "http://www.kyushu-u.ac.jp/",
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Kyushu",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 237,
+    "country": "Japon",
+    "universityName": "Tohoku University",
+    "location": "Sendai",
+    "url": "http://www.tohoku.ac.jp/",
+    "languages": [
+      "Japonais",
+      "Anglais"
+    ],
+    "description": "Université généraliste proposant un large éventail de programmes académiques.",
+    "shortName": "Tohoku",
+    "exchangeType": "Accord bilatéral"
+  },
+  {
+    "id": 238,
+    "country": "USA",
+    "universityName": "IIT Illinois Institute of Technology",
+    "location": "Chicago",
+    "url": "http://web.iit.edu/",
+    "languages": [
+      "Anglais"
+    ],
+    "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
+    "shortName": "IIT",
+    "exchangeType": "Accord bilatéral"
+  }
+]
