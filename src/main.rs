@@ -1,7 +1,6 @@
 mod models;
 mod routes;
 mod db;
-use dotenvy;
 
 use tower_http::cors::{CorsLayer, Any};
 
@@ -12,7 +11,7 @@ async fn main() {
     let pool = db::create_pool().await;
 
     // Run migrations automatically on startup
-    sqlx::migrate!()
+    sqlx::migrate!("./migrations")
         .run(&pool)
         .await
         .expect("Failed to run migrations");
