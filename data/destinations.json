@@ -11,7 +11,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENSH",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.5126, 2.8800]
   },
   {
     "id": 2,
@@ -25,7 +26,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENSMM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.8326, 7.7407]
   },
   {
     "id": 3,
@@ -39,7 +41,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENSSMAL",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.7262, 3.0319]
   },
   {
     "id": 4,
@@ -53,7 +56,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Université",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.8315, 7.7410]
   },
   {
     "id": 5,
@@ -67,7 +71,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "HS",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.5398, 8.5828]
   },
   {
     "id": 6,
@@ -81,7 +86,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "KIT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [49.0094, 8.4117]
   },
   {
     "id": 7,
@@ -95,7 +101,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "LMU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.1508, 11.5801]
   },
   {
     "id": 8,
@@ -109,7 +116,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "RUB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.4447, 7.2618]
   },
   {
     "id": 9,
@@ -123,7 +131,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "RWTH",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.7780, 6.0607]
   },
   {
     "id": 10,
@@ -137,7 +146,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.7671, 14.3275]
   },
   {
     "id": 11,
@@ -151,7 +161,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [49.8753, 8.6578]
   },
   {
     "id": 12,
@@ -165,7 +176,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.4925, 7.4116]
   },
   {
     "id": 13,
@@ -179,7 +191,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.0269, 13.7267]
   },
   {
     "id": 14,
@@ -193,7 +206,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [49.4243, 7.7554]
   },
   {
     "id": 15,
@@ -207,7 +221,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TUM",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.1491, 11.5675]
   },
   {
     "id": 16,
@@ -221,7 +236,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.5682, 13.4533]
   },
   {
     "id": 17,
@@ -235,7 +251,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.7827, 9.1775]
   },
   {
     "id": 18,
@@ -249,7 +266,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "ITBA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-34.6028, -58.3683]
   },
   {
     "id": 19,
@@ -263,7 +281,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "IUA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-31.4429, -64.2428]
   },
   {
     "id": 20,
@@ -277,7 +296,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UBA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-34.5997, -58.3731]
   },
   {
     "id": 21,
@@ -291,7 +311,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UMP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-38.0055, -57.5426]
   },
   {
     "id": 22,
@@ -305,7 +326,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-31.4357, -64.1884]
   },
   {
     "id": 23,
@@ -319,7 +341,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNCUYO",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-32.8803, -68.8784]
   },
   {
     "id": 24,
@@ -333,7 +356,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNL",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-31.6373, -60.7022]
   },
   {
     "id": 25,
@@ -347,7 +371,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNLP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-34.9121, -57.9427]
   },
   {
     "id": 26,
@@ -361,7 +386,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNR",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-32.9587, -60.6601]
   },
   {
     "id": 27,
@@ -375,7 +401,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNRC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.1118, -64.3013]
   },
   {
     "id": 28,
@@ -389,7 +416,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-38.7018, -62.2699]
   },
   {
     "id": 29,
@@ -403,7 +431,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-26.8370, -65.2307]
   },
   {
     "id": 30,
@@ -417,7 +446,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "UTN",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-34.6037, -58.3816]
   },
   {
     "id": 31,
@@ -430,7 +460,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ANU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-35.2777, 149.1185]
   },
   {
     "id": 32,
@@ -443,7 +474,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Flinders",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-35.0185, 138.5721]
   },
   {
     "id": 33,
@@ -456,7 +488,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNSW",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.9173, 151.2313]
   },
   {
     "id": 34,
@@ -469,7 +502,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UOW",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-34.4068, 150.8795]
   },
   {
     "id": 35,
@@ -483,7 +517,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.0650, 15.4500]
   },
   {
     "id": 36,
@@ -497,7 +532,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.1989, 16.3699]
   },
   {
     "id": 37,
@@ -511,7 +547,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNILEOBEN",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.3850, 15.0930]
   },
   {
     "id": 38,
@@ -526,7 +563,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "KULEUVEN",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.8780, 4.7005]
   },
   {
     "id": 39,
@@ -541,7 +579,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UGENT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.0475, 3.7225]
   },
   {
     "id": 40,
@@ -556,7 +595,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ULB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.8131, 4.3822]
   },
   {
     "id": 41,
@@ -571,7 +611,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Université",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.4667, 4.8596]
   },
   {
     "id": 42,
@@ -584,7 +625,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "EMI",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-16.5000, -68.1500]
   },
   {
     "id": 43,
@@ -598,7 +640,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Poli",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-22.8604, -43.2324]
   },
   {
     "id": 44,
@@ -612,7 +655,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Poli",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-23.5475, -46.7292]
   },
   {
     "id": 45,
@@ -626,7 +670,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "PUC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-22.9789, -43.2327]
   },
   {
     "id": 46,
@@ -640,7 +685,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-3.7417, -38.5375]
   },
   {
     "id": 47,
@@ -654,7 +700,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFCG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-7.2147, -35.9125]
   },
   {
     "id": 48,
@@ -668,7 +715,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-16.6033, -49.2665]
   },
   {
     "id": 49,
@@ -682,7 +730,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFMG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-19.8691, -43.9664]
   },
   {
     "id": 50,
@@ -696,7 +745,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFPB",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-7.1397, -34.8504]
   },
   {
     "id": 51,
@@ -710,7 +760,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFPR",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-25.4214, -49.2315]
   },
   {
     "id": 52,
@@ -724,7 +775,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFRN",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-5.8427, -35.2023]
   },
   {
     "id": 53,
@@ -738,7 +790,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFSC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-27.6001, -48.5186]
   },
   {
     "id": 54,
@@ -752,7 +805,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UFU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-18.9186, -48.2575]
   },
   {
     "id": 55,
@@ -766,7 +820,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNESP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-23.5234, -46.6644]
   },
   {
     "id": 56,
@@ -780,7 +835,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNICAMP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-22.8171, -47.0697]
   },
   {
     "id": 57,
@@ -794,7 +850,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UTFPR",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-25.4397, -49.2689]
   },
   {
     "id": 58,
@@ -807,7 +864,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "2IE",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [12.3553, -1.5034]
   },
   {
     "id": 59,
@@ -821,7 +879,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "EPM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [45.5048, -73.6132]
   },
   {
     "id": 60,
@@ -835,7 +894,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ORA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [43.6532, -79.3832]
   },
   {
     "id": 61,
@@ -849,7 +909,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Université",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [46.7833, -71.2667]
   },
   {
     "id": 62,
@@ -863,7 +924,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [45.3797, -71.9292]
   },
   {
     "id": 63,
@@ -877,7 +939,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UQAC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [48.4194, -71.0519]
   },
   {
     "id": 64,
@@ -891,7 +954,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "PUCV",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.0445, -71.6133]
   },
   {
     "id": 65,
@@ -905,7 +969,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.4442, -70.6345]
   },
   {
     "id": 66,
@@ -919,7 +984,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UCHILE",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.4437, -70.6505]
   },
   {
     "id": 67,
@@ -933,7 +999,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UDEC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-36.8297, -73.0381]
   },
   {
     "id": 68,
@@ -947,7 +1014,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "USACH",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.4501, -70.6847]
   },
   {
     "id": 69,
@@ -961,7 +1029,8 @@
     ],
     "description": "Université technologique axée sur la formation en informatique et technologies.",
     "shortName": "UTFSM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.0350, -71.5921]
   },
   {
     "id": 70,
@@ -975,7 +1044,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "CityU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [22.3366, 114.1731]
   },
   {
     "id": 71,
@@ -989,7 +1059,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "HIT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [45.7516, 126.6373]
   },
   {
     "id": 72,
@@ -1003,7 +1074,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "NPU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [34.2405, 108.9161]
   },
   {
     "id": 73,
@@ -1017,7 +1089,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "PolyU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [22.3041, 114.1797]
   },
   {
     "id": 74,
@@ -1031,7 +1104,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Tongji",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [31.2828, 121.5039]
   },
   {
     "id": 75,
@@ -1045,7 +1119,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Tsinghua",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [40.0001, 116.3262]
   },
   {
     "id": 76,
@@ -1059,7 +1134,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Xiamen",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [24.4372, 118.0939]
   },
   {
     "id": 77,
@@ -1073,7 +1149,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "PUJ",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [4.6284, -74.0645]
   },
   {
     "id": 78,
@@ -1087,7 +1164,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UdeA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [6.2676, -75.5684]
   },
   {
     "id": 79,
@@ -1101,7 +1179,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UMNG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [4.7031, -74.0305]
   },
   {
     "id": 80,
@@ -1115,7 +1194,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNAL",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [4.6381, -74.0840]
   },
   {
     "id": 81,
@@ -1129,7 +1209,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNIANDES",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [4.6019, -74.0655]
   },
   {
     "id": 82,
@@ -1143,7 +1224,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Hoseo",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.8224, 127.1759]
   },
   {
     "id": 83,
@@ -1157,7 +1239,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Korea",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [37.5899, 127.0326]
   },
   {
     "id": 84,
@@ -1171,7 +1254,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "POSTECH",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.0148, 129.3228]
   },
   {
     "id": 85,
@@ -1185,7 +1269,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Seoul",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [37.4598, 126.9519]
   },
   {
     "id": 86,
@@ -1199,7 +1284,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "Ulsan",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.5384, 129.3115]
   },
   {
     "id": 87,
@@ -1213,7 +1299,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Yonsei",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [37.5663, 126.9384]
   },
   {
     "id": 88,
@@ -1227,7 +1314,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "AAU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [57.0124, 9.9914]
   },
   {
     "id": 89,
@@ -1241,7 +1329,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "DTU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [55.7858, 12.5213]
   },
   {
     "id": 90,
@@ -1255,7 +1344,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "SDU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [55.3705, 10.4321]
   },
   {
     "id": 91,
@@ -1269,7 +1359,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UPC",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.2793, 1.9835]
   },
   {
     "id": 92,
@@ -1283,7 +1374,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "EHU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [43.2630, -2.9350]
   },
   {
     "id": 93,
@@ -1297,7 +1389,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Madrid",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.4524, -3.7259]
   },
   {
     "id": 94,
@@ -1311,7 +1404,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UC3M",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.2986, -3.7256]
   },
   {
     "id": 95,
@@ -1325,7 +1419,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UCLM",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [38.9911, -3.9211]
   },
   {
     "id": 96,
@@ -1339,7 +1434,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UDC",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [43.3187, -8.3761]
   },
   {
     "id": 97,
@@ -1353,7 +1449,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UJI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [39.9943, -0.0698]
   },
   {
     "id": 98,
@@ -1367,7 +1464,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNICAN",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [43.4724, -3.7997]
   },
   {
     "id": 99,
@@ -1381,7 +1479,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNIZAR",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.6413, -0.8941]
   },
   {
     "id": 100,
@@ -1395,7 +1494,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UP",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.4353, -3.6976]
   },
   {
     "id": 101,
@@ -1409,7 +1509,8 @@
     ],
     "description": "Université technologique axée sur la formation en informatique et technologies.",
     "shortName": "UPC",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.3891, 2.1134]
   },
   {
     "id": 102,
@@ -1423,7 +1524,8 @@
     ],
     "description": "Université technologique axée sur la formation en informatique et technologies.",
     "shortName": "UPM",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.4524, -3.7259]
   },
   {
     "id": 103,
@@ -1437,7 +1539,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "US",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [37.3814, -5.9914]
   },
   {
     "id": 104,
@@ -1451,7 +1554,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TTU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [59.3951, 24.6719]
   },
   {
     "id": 105,
@@ -1465,7 +1569,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [58.3782, 26.7192]
   },
   {
     "id": 106,
@@ -1480,7 +1585,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Aalto",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [60.1841, 24.8262]
   },
   {
     "id": 107,
@@ -1495,7 +1601,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ABO",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [60.4518, 22.2799]
   },
   {
     "id": 108,
@@ -1510,7 +1617,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "JYU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [62.2368, 25.7319]
   },
   {
     "id": 109,
@@ -1525,7 +1633,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Tampere",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [61.4498, 23.8594]
   },
   {
     "id": 110,
@@ -1539,7 +1648,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "AUTH",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.6294, 22.9582]
   },
   {
     "id": 111,
@@ -1553,7 +1663,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNIQ",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [18.5393, -72.3361]
   },
   {
     "id": 112,
@@ -1567,7 +1678,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "The",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [22.3375, 114.2631]
   },
   {
     "id": 113,
@@ -1581,7 +1693,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "BME",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.4811, 19.0553]
   },
   {
     "id": 114,
@@ -1595,7 +1708,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IITB",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [19.1334, 72.9133]
   },
   {
     "id": 115,
@@ -1609,7 +1723,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IITD",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [28.5450, 77.1926]
   },
   {
     "id": 116,
@@ -1623,7 +1738,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IITK",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [26.5123, 80.2329]
   },
   {
     "id": 117,
@@ -1637,7 +1753,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IITM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [12.9915, 80.2336]
   },
   {
     "id": 118,
@@ -1651,7 +1768,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "ITS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-7.2819, 112.7911]
   },
   {
     "id": 119,
@@ -1665,7 +1783,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "DCU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.3846, -6.2577]
   },
   {
     "id": 120,
@@ -1679,7 +1798,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "TCD",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.3438, -6.2542]
   },
   {
     "id": 121,
@@ -1693,7 +1813,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UCD",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.3069, -6.2226]
   },
   {
     "id": 122,
@@ -1707,7 +1828,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UL",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.6723, -8.5713]
   },
   {
     "id": 123,
@@ -1721,7 +1843,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "HI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [64.1368, -21.9437]
   },
   {
     "id": 124,
@@ -1735,7 +1858,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Liceo",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.9028, 12.4964]
   },
   {
     "id": 125,
@@ -1749,7 +1873,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "POLIBA",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.1171, 16.8709]
   },
   {
     "id": 126,
@@ -1763,7 +1888,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "POLITO",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [45.0624, 7.6622]
   },
   {
     "id": 127,
@@ -1777,7 +1903,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNICT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [37.5149, 15.0907]
   },
   {
     "id": 128,
@@ -1791,7 +1918,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNIMI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [45.4624, 9.1922]
   },
   {
     "id": 129,
@@ -1805,7 +1933,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNINA",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [40.8453, 14.2583]
   },
   {
     "id": 130,
@@ -1819,7 +1948,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNIROMAL",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.9031, 12.5144]
   },
   {
     "id": 131,
@@ -1833,7 +1963,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNIVAQ",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [42.3522, 13.3947]
   },
   {
     "id": 132,
@@ -1847,7 +1978,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Keio",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.6485, 139.7435]
   },
   {
     "id": 133,
@@ -1861,7 +1993,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Tokyo",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.6049, 139.6838]
   },
   {
     "id": 134,
@@ -1875,7 +2008,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "Tokyo",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.6895, 139.6917]
   },
   {
     "id": 135,
@@ -1889,7 +2023,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UTokyo",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.7130, 139.7622]
   },
   {
     "id": 136,
@@ -1903,7 +2038,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "EMI",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.9716, -6.8498]
   },
   {
     "id": 137,
@@ -1917,7 +2053,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ENSAJ",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.2315, -8.5008]
   },
   {
     "id": 138,
@@ -1931,7 +2068,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ENSAT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.7595, -5.8340]
   },
   {
     "id": 139,
@@ -1945,7 +2083,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENSEM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.5731, -7.5898]
   },
   {
     "id": 140,
@@ -1959,7 +2098,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENSMR",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.9716, -6.8498]
   },
   {
     "id": 141,
@@ -1973,7 +2113,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "FSTS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.0017, -7.6205]
   },
   {
     "id": 142,
@@ -1987,7 +2128,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "INPT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.9781, -6.8637]
   },
   {
     "id": 143,
@@ -2001,7 +2143,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "USMBA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [34.0181, -4.9932]
   },
   {
     "id": 144,
@@ -2015,7 +2158,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "BUAP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [19.0413, -98.2062]
   },
   {
     "id": 145,
@@ -2029,7 +2173,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "IPN",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [19.5045, -99.1464]
   },
   {
     "id": 146,
@@ -2043,7 +2188,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UABC",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [32.5358, -117.0226]
   },
   {
     "id": 147,
@@ -2057,7 +2203,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UAM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [19.3615, -99.1364]
   },
   {
     "id": 148,
@@ -2071,7 +2218,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UANL",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [25.7261, -100.3119]
   },
   {
     "id": 149,
@@ -2085,7 +2233,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UASLP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [22.1515, -100.9765]
   },
   {
     "id": 150,
@@ -2099,7 +2248,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UDG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [20.6755, -103.3498]
   },
   {
     "id": 151,
@@ -2113,7 +2263,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UG",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [21.0190, -101.2574]
   },
   {
     "id": 152,
@@ -2127,7 +2278,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UNISON",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [29.0736, -110.9559]
   },
   {
     "id": 153,
@@ -2141,7 +2293,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UV",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [19.5453, -96.9289]
   },
   {
     "id": 154,
@@ -2155,7 +2308,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UIS",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [58.9405, 5.6689]
   },
   {
     "id": 155,
@@ -2168,7 +2322,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-36.8521, 174.7687]
   },
   {
     "id": 156,
@@ -2182,7 +2337,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.0067, 4.3742]
   },
   {
     "id": 157,
@@ -2196,7 +2352,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UTWENTE",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.2385, 6.8561]
   },
   {
     "id": 158,
@@ -2210,7 +2367,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Universidad",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-16.4090, -71.5374]
   },
   {
     "id": 159,
@@ -2224,7 +2382,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Universidad",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-12.0944, -76.9835]
   },
   {
     "id": 160,
@@ -2238,7 +2397,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "AGH",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.0664, 19.9127]
   },
   {
     "id": 161,
@@ -2252,7 +2412,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "PG",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [54.3715, 18.6191]
   },
   {
     "id": 162,
@@ -2266,7 +2427,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.7435, 19.4551]
   },
   {
     "id": 163,
@@ -2280,7 +2442,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "FEUP",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.1500, -8.6100]
   },
   {
     "id": 164,
@@ -2294,7 +2457,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "IST",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [38.7367, -9.1389]
   },
   {
     "id": 165,
@@ -2308,7 +2472,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "CTU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [50.1035, 14.3934]
   },
   {
     "id": 166,
@@ -2322,7 +2487,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "VUTBR",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [49.2015, 16.6075]
   },
   {
     "id": 167,
@@ -2336,7 +2502,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ZCU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [49.7384, 13.3779]
   },
   {
     "id": 168,
@@ -2350,7 +2517,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "ARUT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [44.4268, 26.1025]
   },
   {
     "id": 169,
@@ -2364,7 +2532,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IASI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.1627, 27.5858]
   },
   {
     "id": 170,
@@ -2378,7 +2547,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ORADEA",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.0465, 21.9189]
   },
   {
     "id": 171,
@@ -2392,7 +2562,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "SAPIENTIA",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.7712, 23.5841]
   },
   {
     "id": 172,
@@ -2406,7 +2577,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.5704, 26.9120]
   },
   {
     "id": 173,
@@ -2420,7 +2592,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UPB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [44.4384, 26.0472]
   },
   {
     "id": 174,
@@ -2434,7 +2607,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UPT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [45.7489, 21.2087]
   },
   {
     "id": 175,
@@ -2448,7 +2622,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UPT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [45.7489, 21.2087]
   },
   {
     "id": 176,
@@ -2462,7 +2637,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "USV",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.6423, 26.2589]
   },
   {
     "id": 177,
@@ -2476,7 +2652,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UTCB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [44.4296, 26.0840]
   },
   {
     "id": 178,
@@ -2490,7 +2667,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "UTCN",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.7712, 23.5841]
   },
   {
     "id": 179,
@@ -2503,7 +2681,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "CAM",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.2053, 0.1218]
   },
   {
     "id": 180,
@@ -2516,7 +2695,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "London",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.4988, -0.1749]
   },
   {
     "id": 181,
@@ -2529,7 +2709,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Loughborough",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.7653, -1.2353]
   },
   {
     "id": 182,
@@ -2542,7 +2723,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [57.1650, -2.1039]
   },
   {
     "id": 183,
@@ -2555,7 +2737,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.3758, -2.3245]
   },
   {
     "id": 184,
@@ -2568,7 +2751,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [51.4545, -2.6044]
   },
   {
     "id": 185,
@@ -2581,7 +2765,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.8077, -1.5501]
   },
   {
     "id": 186,
@@ -2594,7 +2779,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [53.3811, -1.4851]
   },
   {
     "id": 187,
@@ -2607,7 +2793,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [55.8623, -4.2405]
   },
   {
     "id": 188,
@@ -2621,7 +2808,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "BMSTU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [55.7667, 37.6833]
   },
   {
     "id": 189,
@@ -2635,7 +2823,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "Peter",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [60.0072, 30.3736]
   },
   {
     "id": 190,
@@ -2650,7 +2839,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "Singapore",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [1.3406, 103.9635]
   },
   {
     "id": 191,
@@ -2664,7 +2854,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "STU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [48.1486, 17.1077]
   },
   {
     "id": 192,
@@ -2678,7 +2869,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UM",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.5547, 15.6451]
   },
   {
     "id": 193,
@@ -2692,7 +2884,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UNILJ",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.0514, 14.5030]
   },
   {
     "id": 194,
@@ -2706,7 +2899,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "Chalmers",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [57.6888, 11.9754]
   },
   {
     "id": 195,
@@ -2720,7 +2914,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "LU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [55.7058, 13.1932]
   },
   {
     "id": 196,
@@ -2734,7 +2929,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "SU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [59.3627, 18.0550]
   },
   {
     "id": 197,
@@ -2749,7 +2945,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "EPFL",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [46.5191, 6.5668]
   },
   {
     "id": 198,
@@ -2764,7 +2961,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Rapperswil",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [47.2256, 8.8187]
   },
   {
     "id": 199,
@@ -2778,7 +2976,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IUSTA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [13.8298, 20.8324]
   },
   {
     "id": 200,
@@ -2792,7 +2991,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENIS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [34.7394, 10.7609]
   },
   {
     "id": 201,
@@ -2806,7 +3006,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ENIT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.8317, 10.1472]
   },
   {
     "id": 202,
@@ -2820,7 +3021,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "UM",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [35.7646, 10.8115]
   },
   {
     "id": 203,
@@ -2834,7 +3036,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "BOUN",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [41.0855, 29.0446]
   },
   {
     "id": 204,
@@ -2848,7 +3051,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "GSU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [41.0392, 28.9758]
   },
   {
     "id": 205,
@@ -2861,7 +3065,8 @@
     ],
     "description": "Institut d'enseignement supérieur réputé pour l'excellence académique.",
     "shortName": "GE3",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [40.7484, -73.9857]
   },
   {
     "id": 206,
@@ -2874,7 +3079,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "GEORGIA",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.7756, -84.3963]
   },
   {
     "id": 207,
@@ -2887,7 +3093,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Penn",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [40.7982, -77.8599]
   },
   {
     "id": 208,
@@ -2900,7 +3107,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "PITT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [40.4446, -79.9531]
   },
   {
     "id": 209,
@@ -2914,7 +3122,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "USB",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [10.4086, -66.8756]
   },
   {
     "id": 210,
@@ -2927,7 +3136,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "Ecole",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [21.0285, 105.8542]
   },
   {
     "id": 211,
@@ -2940,7 +3150,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IPHCMV",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [10.8025, 106.7134]
   },
   {
     "id": 212,
@@ -2954,7 +3165,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "King",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [13.6524, 100.4946]
   },
   {
     "id": 213,
@@ -2968,7 +3180,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "TUB",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.5139, 13.3270]
   },
   {
     "id": 214,
@@ -2981,7 +3194,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ISEP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-33.8688, 151.2093]
   },
   {
     "id": 215,
@@ -2995,7 +3209,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "ETS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [45.4954, -73.5626]
   },
   {
     "id": 216,
@@ -3009,7 +3224,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "BJTU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [39.9471, 116.3364]
   },
   {
     "id": 217,
@@ -3023,7 +3239,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "SJTU",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [31.2016, 121.4292]
   },
   {
     "id": 218,
@@ -3037,7 +3254,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UPC",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [41.3891, 2.1134]
   },
   {
     "id": 219,
@@ -3052,7 +3270,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "LUT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [61.0646, 28.0927]
   },
   {
     "id": 220,
@@ -3066,7 +3285,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "POLIMI",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [45.4781, 9.2272]
   },
   {
     "id": 221,
@@ -3080,7 +3300,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Kobe",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [34.7253, 135.2434]
   },
   {
     "id": 222,
@@ -3094,7 +3315,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "VGTU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [54.7214, 25.3385]
   },
   {
     "id": 223,
@@ -3108,7 +3330,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "VTDK",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [54.7011, 25.2869]
   },
   {
     "id": 224,
@@ -3122,7 +3345,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "UADY",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [20.9674, -89.6231]
   },
   {
     "id": 225,
@@ -3136,7 +3360,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "NTNU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [63.4184, 10.4015]
   },
   {
     "id": 226,
@@ -3149,7 +3374,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "ISEP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [-37.7885, 175.3140]
   },
   {
     "id": 227,
@@ -3163,7 +3389,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "WUT",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.2220, 21.0070]
   },
   {
     "id": 228,
@@ -3176,7 +3403,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "University",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [52.4497, -1.9323]
   },
   {
     "id": 229,
@@ -3191,7 +3419,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "NUS",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [1.2966, 103.7764]
   },
   {
     "id": 230,
@@ -3205,7 +3434,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "KTH",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [59.3478, 18.0736]
   },
   {
     "id": 231,
@@ -3219,7 +3449,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "LTU",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [65.6187, 22.1404]
   },
   {
     "id": 232,
@@ -3232,7 +3463,8 @@
     ],
     "description": "Établissement d'enseignement supérieur de qualité avec une forte réputation internationale.",
     "shortName": "ISEP",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [38.9072, -77.0369]
   },
   {
     "id": 233,
@@ -3246,7 +3478,8 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "KAIST",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [36.3721, 127.3604]
   },
   {
     "id": 234,
@@ -3260,7 +3493,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Sogang",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [37.5513, 126.9406]
   },
   {
     "id": 235,
@@ -3274,7 +3508,8 @@
     ],
     "description": "Université technologique axée sur la formation en informatique et technologies.",
     "shortName": "UPV",
-    "exchangeType": "Erasmus"
+    "exchangeType": "Erasmus",
+    "position": [39.4811, -0.3436]
   },
   {
     "id": 236,
@@ -3288,7 +3523,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Kyushu",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [33.5954, 130.2205]
   },
   {
     "id": 237,
@@ -3302,7 +3538,8 @@
     ],
     "description": "Université généraliste proposant un large éventail de programmes académiques.",
     "shortName": "Tohoku",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [38.2536, 140.8737]
   },
   {
     "id": 238,
@@ -3315,6 +3552,7 @@
     ],
     "description": "École d'ingénieurs spécialisée dans l'enseignement supérieur en sciences et technologies.",
     "shortName": "IIT",
-    "exchangeType": "Accord bilatéral"
+    "exchangeType": "Accord bilatéral",
+    "position": [41.8349, -87.6272]
   }
 ]
