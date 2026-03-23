@@ -17,13 +17,14 @@ struct Destination {
     short_name: Option<String>,
     position: Vec<f64>,
 }
-
 #[tokio::main]
 async fn main() {
     dotenvy::dotenv().ok();
+    let database_url : String = std::env::var("DATABASE_URL")
+        .unwrap_or_else(|_| "sqlite:./tcexchange.db".to_string());
 
     let pool = SqlitePoolOptions::new()
-        .connect("sqlite:./tcexchange.db")
+        .connect(&database_url)
         .await
         .expect("Failed to connect");
 
