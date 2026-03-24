@@ -1,0 +1,12 @@
+{
+  "db_name": "SQLite",
+  "query": "INSERT OR IGNORE INTO destinations\n            (id, university_name, country, location, url, exchange_type, languages, description, short_name, position)\n            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)",
+  "describe": {
+    "columns": [],
+    "parameters": {
+      "Right": 10
+    },
+    "nullable": []
+  },
+  "hash": "e466253f8e8c352a32872e0bcbc8f4241bd431dab5ca9a0c170a890e689e3829"
+}

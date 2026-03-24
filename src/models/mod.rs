@@ -11,4 +11,5 @@ pub struct Destination {
     pub languages: Option<String>,  // comma-separated string
     pub description: Option<String>,
     pub short_name: Option<String>,
+    pub position: Option<String>,
 }

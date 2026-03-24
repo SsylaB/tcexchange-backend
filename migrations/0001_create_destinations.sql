@@ -7,5 +7,6 @@ CREATE TABLE IF NOT EXISTS destinations (
                                             exchange_type TEXT,
                                             languages TEXT,
                                             description TEXT,
-                                            short_name TEXT
+                                            short_name TEXT,
+                                            position TEXT
 );

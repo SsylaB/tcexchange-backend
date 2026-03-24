@@ -47,6 +47,11 @@
         "name": "short_name",
         "ordinal": 8,
         "type_info": "Text"
+      },
+      {
+        "name": "position",
+        "ordinal": 9,
+        "type_info": "Text"
       }
     ],
     "parameters": {
@@ -56,6 +61,7 @@
       false,
       false,
       false,
+      true,
       true,
       true,
       true,
