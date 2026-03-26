@@ -2,7 +2,9 @@ mod models;
 mod routes;
 mod db;
 
-use tower_http::cors::{CorsLayer, Any};
+use tower_http::cors::CorsLayer;
+// Utilise crate::routes si ax_auth ne fonctionne pas, selon le nom de ton projet
+use crate::routes::create_router; 
 
 #[tokio::main]
 async fn main() {
@@ -10,20 +12,21 @@ async fn main() {
 
     let pool = db::create_pool().await;
 
-    // Run migrations automatically on startup
+    // Migrations automatiques
     sqlx::migrate!("./migrations")
         .run(&pool)
         .await
         .expect("Failed to run migrations");
 
-    let cors = CorsLayer::new()
-        .allow_origin(Any)
-        .allow_methods(Any)
-        .allow_headers(Any);
+    // On définit le CORS une seule fois de manière simple
+    let cors = CorsLayer::permissive();
 
-    let app = routes::create_router(pool).layer(cors);
+    // On applique le router et la couche CORS
+    let app = create_router(pool)
+        .layer(cors);
 
     let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
-    println!("Server running on http://localhost:3000");
+    println!("🚀 Server running on http://localhost:3000");
+    
     axum::serve(listener, app).await.unwrap();
 }
