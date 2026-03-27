@@ -27,11 +27,11 @@ async fn get_destinations(
 
 async fn get_ai_recommendation(
     dotenv::dotenv().ok(); 
-    let gemini_api_key = std::env::var("GEMINI_API_KEY")
-        .expect("GEMINI_API_KEY must be set in .env");
+    let groq_api_key = std::env::var("GROQ_API_KEY")
+        .expect("GROQ_API_KEY must be set in .env");
     let url = format!(
-        "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={}", 
-        gemini_api_key
+        "https://api.groq.com/openai/v1/chat/completions", 
+        groq_api_key
     );
     State(pool): State<SqlitePool>,
     Json(payload): Json<QuizAnswers>,
