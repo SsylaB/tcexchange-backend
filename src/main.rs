@@ -1,32 +1,50 @@
-mod models;
-mod routes;
-mod db;
-
+use axum::{Router, routing::get};
 use tower_http::cors::CorsLayer;
-// Utilise crate::routes si ax_auth ne fonctionne pas, selon le nom de ton projet
-use crate::routes::create_router; 
+
+mod routes;
+mod models;
+mod db;
+mod chat;
 
 #[tokio::main]
 async fn main() {
     dotenvy::dotenv().ok();
 
+    if std::env::var("GROQ_API_KEY").is_err() {
+        eprintln!("Warning: GROQ_API_KEY not set");
+    }
+
     let pool = db::create_pool().await;
 
-    // Migrations automatiques
+    // Run migrations automatically on startup
     sqlx::migrate!("./migrations")
         .run(&pool)
         .await
         .expect("Failed to run migrations");
 
-    // On définit le CORS une seule fois de manière simple
+    // Simple permissive CORS
     let cors = CorsLayer::permissive();
 
-    // On applique le router et la couche CORS
-    let app = create_router(pool)
+    // Build API router (still missing state here)
+    let api = routes::api_router();
+
+    // Provide state ONCE at the outer router level
+    let app = Router::new()
+        .route(
+            "/",
+            get(|| async { "✅ TC Exchange Backend is running! Use POST /api/chat" }),
+        )
+        .nest("/api", api)
+        .with_state(pool)  // after this, app: Router<()>
         .layer(cors);
 
-    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000").await.unwrap();
-    println!("🚀 Server running on http://localhost:3000");
-    
-    axum::serve(listener, app).await.unwrap();
+    let listener = tokio::net::TcpListener::bind("0.0.0.0:3000")
+        .await
+        .unwrap();
+
+    println!("🚀 Server running on http://0.0.0.0:3000");
+
+    axum::serve(listener, app)
+        .await
+        .unwrap();
 }
