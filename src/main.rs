@@ -5,6 +5,7 @@ mod routes;
 mod models;
 mod db;
 mod chat;
+mod compare; // ✅ C'est cette ligne qui manquait pour lier le Moteur IA !
 
 #[tokio::main]
 async fn main() {
@@ -25,7 +26,7 @@ async fn main() {
     // Simple permissive CORS
     let cors = CorsLayer::permissive();
 
-    // Build API router (still missing state here)
+    // Build API router (defined in routes/mod.rs)
     let api = routes::api_router();
 
     // Provide state ONCE at the outer router level
